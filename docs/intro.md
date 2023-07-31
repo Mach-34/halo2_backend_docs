@@ -9,6 +9,10 @@ These docs serve two purposes:
 1. Demonstrating the use of the Halo2 Backend in Aztec Noir
 2. Providing clarity on adding a new backend to the Aztec Noir DSL
 
+# Goals and Limitations
+
+
+
 # Getting help
 
 You can join the [Noir Discord Channel](https://discord.gg/VgdzaDyffT) to get general help with the Aztec Noir DSL. This is the easiest way to get quick help with Noir. You can directly tag `jp4g#1337` in the Noir discord for assistance from one of the Halo2 Backend maintainers.
