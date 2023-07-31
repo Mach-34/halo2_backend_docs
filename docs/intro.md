@@ -1,47 +1,30 @@
 ---
+slug: /
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+These docs serve two purposes:
+1. Demonstrating the use of the Halo2 Backend in Aztec Noir
+2. Providing clarity on adding a new backend to the Aztec Noir DSL
 
-## Getting Started
+# Getting help
 
-Get started by **creating a new site**.
+You can join the [Noir Discord Channel](https://discord.gg/VgdzaDyffT) to get general help with the Aztec Noir DSL. This is the easiest way to get quick help with Noir. You can directly tag `jp4g#1337` in the Noir discord for assistance from one of the Halo2 Backend maintainers.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+Additionally, you can use the [Aztec Discourse Forum](https://discourse.aztec.network) for longer form questions that involve more of the Aztec stack. While the discord is great for Noir-specific questions, you will find that questions involving the cryptography or engineering of the larget Aztec stack are best answered here.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+# Credits
 
-## Generate a new site
+<ol>
+  <li><a href="https://github.com/ethan-000">Ethan-000</a></li>
+  <li><a href="https://mach34.space">Mach 34</a>
+    <ul>
+      <li><a href="https://github.com/jp4g">jp4g</a></li>
+      <li><a href="https://github.com/ian-bright">ian-bright</a></li>
+    </ul>
+  </li>
+</ol>
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
